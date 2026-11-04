@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner/YOUR_IMAGE_NAME.png" alt="CertOfChaos Banner" width="100%"/>
+  <img src="assets/banner.png" alt="CertOfChaos Banner" width="100%"/>
 </div>
 
 <div align="center">
