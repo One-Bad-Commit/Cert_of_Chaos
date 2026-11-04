@@ -1,4 +1,4 @@
-# 🃏 Cert_Of_Chaos
+# 🃏 CertOfChaos
 
 > *Why so serious about certificates?*
 
